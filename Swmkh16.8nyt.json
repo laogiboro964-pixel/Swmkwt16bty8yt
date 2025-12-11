@@ -1,9 +1,9 @@
 {
   "showDialog": true,
-  "latestVersionCode": 14800100,
-  "latestVersionName": "16.8.0",
+  "latestVersionCode": 14900100,
+  "latestVersionName": "16.9.0",
   "title": "UPDATE AVAILABLE",
   "message": "Get the newest features and improvements.",
-  "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "https://t.me/Keron_New"
+  "UpdateButtonText": "DOWNLOAD Ok",
+  "UpdateButtonUrl": "https://t.me/keron_official_ogg/11?single"
 }
